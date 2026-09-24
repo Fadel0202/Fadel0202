@@ -7,8 +7,8 @@
 ### 🎓 Education
 
 <img src="assets/telecom-paris.png" height="20" alt="Télécom Paris"> <img src="assets/ensta-paris.png" height="20" alt="ENSTA Paris"> **MS in Multimodal & Autonomous AI** — Télécom Paris × ENSTA Paris<br>
-<img src="Logo_Université_Paris-Cité.svg" height="20" alt="Université Paris Cité"> **Master's in Machine Learning for Data Science** — Université Paris Cité<br>
-<img src="Logo_Université_Gustave_Eiffel.svg" height="20" alt="Université Gustave Eiffel"> **Bachelor's degree** — Université Gustave Eiffel
+<img src="Logo_Université_Paris-Cité.svg.webp" height="20" alt="Université Paris Cité"> **Master's in Machine Learning for Data Science** — Université Paris Cité<br>
+<img src="Logo_Université_Gustave_Eiffel.svg.webp" height="20" alt="Université Gustave Eiffel"> **Bachelor's degree** — Université Gustave Eiffel
 
 ### 🛠️ Stack
 
