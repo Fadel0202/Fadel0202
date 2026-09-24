@@ -1,16 +1,19 @@
-## Hi there 👋
+# Mouhamed Fadel Samb
 
-<!--
-**Fadel0202/Fadel0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ML / AI Engineer** · Computer vision · 3D reconstruction · Robotics — Paris 🇫🇷
 
-Here are some ideas to get you started:
+🥽 Interested in AR/VR and spatial computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+
+<img src="assets/telecom-paris.png" height="20" alt="Télécom Paris"> <img src="assets/ensta-paris.png" height="20" alt="ENSTA Paris"> **MS in Multimodal & Autonomous AI** — Télécom Paris × ENSTA Paris<br>
+<img src="assets/universite-paris-cite.png" height="20" alt="Université Paris Cité"> **Master's in Machine Learning for Data Science** — Université Paris Cité<br>
+<img src="assets/universite-gustave-eiffel.png" height="20" alt="Université Gustave Eiffel"> **Bachelor's degree** — Université Gustave Eiffel
+
+### 🛠️ Stack
+
+Python · PyTorch · scikit-learn · OpenCV · ROS 2 · R · SQL
+
+### 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/mouhamed-fadel-samb-5301a429b) · [Email](mailto:mouhamedfadel2001pro@gmail.com)
