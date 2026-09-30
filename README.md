@@ -2,7 +2,7 @@
 
 # Mouhamed Fadel Samb
 
-**AI Engineer** · Computer Vision · 3D Reconstruction · Robotics
+**AI Engineer** ·  Data Science  ·  Computer Vision · 3D Reconstruction · Robotics
 
 <sub>🥽 Passionate about AR/VR, smart eyewear and spatial computing</sub>
 
